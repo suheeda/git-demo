@@ -1,0 +1,171 @@
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 17:00:04] Starting pipeline...
+[2025-09-12 17:00:04] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 17:00:09] Starting pipeline...
+[2025-09-12 17:00:09] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 17:00:09] Starting the news pipeline...
+[2025-09-12 17:00:09] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 17:00:19] Starting the news pipeline...
+[2025-09-12 17:00:19] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 17:00:32] Starting pipeline...
+[2025-09-12 17:00:32] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:04] Starting pipeline...
+[2025-09-12 18:00:04] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:09] Starting pipeline...
+[2025-09-12 18:00:09] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:09] Starting the news pipeline...
+[2025-09-12 18:00:09] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:19] Starting the news pipeline...
+[2025-09-12 18:00:19] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:22] Starting pipeline...
+[2025-09-12 18:00:22] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 18:00:32] Starting pipeline...
+[2025-09-12 18:00:32] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-12 19:00:18] Starting pipeline...
+[2025-09-12 19:00:18] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 12:00:11] Starting pipeline...
+[2025-09-13 12:00:11] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 12:00:20] Starting pipeline...
+[2025-09-13 12:00:20] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 12:00:54] Starting pipeline...
+[2025-09-13 12:00:54] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 13:00:25] Starting pipeline...
+[2025-09-13 13:00:25] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 13:00:32] Starting pipeline...
+[2025-09-13 13:00:32] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 14:00:25] Starting pipeline...
+[2025-09-13 14:00:25] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\mufee\Documents\news-analyzer\run_pipeline.py", line 1, in <module>
+    from data_ingest import fetch_and_store
+  File "C:\Users\mufee\Documents\news-analyzer\data_ingest.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+[2025-09-13 14:00:32] Starting pipeline...
+[2025-09-13 14:00:32] ERROR: Command '['python', 'run_pipeline.py']' returned non-zero exit status 1.
